@@ -1,0 +1,1 @@
+public interface FoodRepository extends MongoRepository<FoodItem, String> {}
