@@ -1,0 +1,1 @@
+public interface InfusedIceRepository extends MongoRepository<InfusedIce, String> {}
